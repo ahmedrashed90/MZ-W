@@ -1,0 +1,7 @@
+{
+  "name": "MZJ Workspace",
+  "description": "A comprehensive workspace management system for tracking agendas, campaigns, daily tasks, and vehicle stock with Firebase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
